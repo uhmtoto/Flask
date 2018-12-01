@@ -1,2 +1,2 @@
 # Flask
-📗 Basic Flask
+📗 Basic form of Flask
